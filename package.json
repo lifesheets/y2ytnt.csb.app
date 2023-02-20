@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "description": "ua.lifesheets",
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
